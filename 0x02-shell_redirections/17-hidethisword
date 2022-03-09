@@ -1,2 +1,2 @@
 #!/bin/bash
-sed '/bin/d' /etc/passwd
+sed -i '/bin/d' /etc/passwd
