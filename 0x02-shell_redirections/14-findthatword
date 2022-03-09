@@ -1,0 +1,2 @@
+#!/bin/ash
+grep root /etc/passwd
